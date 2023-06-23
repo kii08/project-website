@@ -1,0 +1,22 @@
+body {
+	background-image: url("bg1/paisley.png");
+}
+h1 {
+	font-style: arial;
+	font-size:50px;
+	color: red;
+}
+button:hover {
+	background-color: black;
+	font-weight: bold;
+	color: grey;
+}
+
+.dark {
+	background-color: #333;
+	color: white;
+	opacity: 0.5;
+}
+#ricky {
+	padding: 5% 15%;
+}
